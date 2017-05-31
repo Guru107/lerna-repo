@@ -1,0 +1,2 @@
+# lerna-repo
+Trying lerna
